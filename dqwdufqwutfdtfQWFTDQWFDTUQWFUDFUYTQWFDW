@@ -3,14 +3,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Jujutsoo/igydtfugshOK
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jujutsoo/dfeefqfhqwudyuqwhfuiqe/main/efwfeqfgqfqrfqwqefwqfqw"))()
 end
-
-getgenv().name = true;
-
-while wait() do
-	if getgenv().name == true then
-		while game.Players.LocalPlayer.Backpack:FindFirstChild("Big Money Stack") do
-			game.Players.LocalPlayer.Backpack["Big Money Stack"].Parent = game.Players.LocalPlayer.Character
-			wait()
-		end
-	end
-end
